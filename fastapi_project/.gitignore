@@ -1,0 +1,26 @@
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Python кэш и артефакты
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# База данных и логи
+*.db
+*.sqlite
+*.sqlite3
+logs/*.log
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Скрипты установки (если они генерируют временные файлы)
+*.swp
+*.swo
