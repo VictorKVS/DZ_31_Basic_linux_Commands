@@ -1,0 +1,13 @@
+# Виртуальные окружения
+venv/
+.venv/
+fastapi_project/venv/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+
+# IDE и ОС
+.idea/
+.vscode/
+.DS_Store
